@@ -1,0 +1,17 @@
+{
+    "format_version": "1.1.0",
+    "meta": {
+        "name": "Skys-The-Limit",
+        "version": "1.0.0",
+        "namespace": "amethyst_template",
+        "author": "Lucy",
+        "uuid": "e770602b-3e36-4944-a8f2-366729ece4ca",
+        "dependencies": [
+            {
+                "dependency_uuid": "e56c3987-fd4a-4590-9923-a07fc4be7250",
+                "dependency_namespace": "amethyst",
+                "version_range": ">=2.0.0 <2.1.0"
+            }
+        ]
+    }
+}

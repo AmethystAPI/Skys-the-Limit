@@ -8,12 +8,7 @@
 	},
 	"regolith": {
 		"dataPath": "./packs/data",
-		"filterDefinitions": {
-			"regolith_generators": {
-				"url": "github.com/FrederoxDev/Regolith-Generators",
-				"version": "1.0.4"
-			}
-		},
+		"filterDefinitions": {},
 		"formatVersion": "1.4.0",
 		"profiles": {
 			"default": {
@@ -24,11 +19,7 @@
 					"rpPath": "%localappdata%/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/amethyst/mods/Skys-The-Limit@0.0.0-dev/resource_packs/main_rp",
 					"target": "exact"
 				},
-				"filters": [
-					{
-						"filter": "regolith_generators"
-					}
-				]
+				"filters": []
 			},
 			"local": {
 				"export": {
